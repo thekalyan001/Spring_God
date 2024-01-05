@@ -26,3 +26,21 @@ Java: 17.
 
 Else 
 vs code me-> ctrl+p ->  >crate java project->choose your desired things.
+
+-----------------------
+Maven help to mange the project by providing things which is required to build it.
+in project run->
+./mvnw clean compile
+
+mvnw use three phase (like lifecycle)-> clean(temp temp directory, files), default(building testing etc), site(report and files generated)
+mvnw clean
+	pre clean ->Hook before clean
+	clean- Does actual clean
+	post-clean- Hook after cleaning
+
+
+
+
+------
+errors
+https://stackoverflow.com/questions/65331242/getting-error-java-home-not-found-in-your-environment-when-attempting-to-crea
