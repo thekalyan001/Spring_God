@@ -4,7 +4,7 @@ https://www.ibm.com/topics/java-spring-boot
 MAVEN- we dont have to manually install jar file for dependency it will do auto.
 Bean- java class contains some getter and setter method.
 
-____________*SPRING*______________
+____________*SPRING boot details*______________
 Spring is framework which workas as an application framework and inversion of control container for the Java platform.
 
 inversion of control->object creation ka control apne hath se htakar spring ko de de and spring runtime pr dynimacally object create krde and inject krde us process ko inversion of control kehte h.
